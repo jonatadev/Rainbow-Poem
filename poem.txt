@@ -4,5 +4,5 @@ Pink
 Red
 Blue
 Green
-
+Gray
 Commit -> Save
