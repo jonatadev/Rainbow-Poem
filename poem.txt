@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the pony
 
 Purple
 Pink
@@ -10,4 +10,5 @@ Unicorn
 Gray
 Theses are the color of the rainbow.
 And the unicorn.
+Pony
 Commit -> Save
